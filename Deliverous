@@ -1,0 +1,7 @@
+blog:
+  description: Blog SkillReso
+  image: registry.deliverous.net/kladier/blog_skillreso
+  ports:
+  - ip: blog
+    container_port: 4000
+    host_port: 80

@@ -1,0 +1,9 @@
+global:
+  french: French
+  english: English
+  tagline: English
+  about: About
+  twitter: Twitter
+  github: GitHub
+pages:
+  example: example

@@ -1,0 +1,10 @@
+name: Flex
+markdown: redcarpet
+highlighter: pygments
+
+baseurl: ""
+url: "0.0.0.0" # the base hostname & protocol for your site.
+host: 0.0.0.0
+permalink: /:title/
+
+languages: ["fr", "en"]
